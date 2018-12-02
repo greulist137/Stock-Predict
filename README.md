@@ -6,5 +6,9 @@ As part of this project, we are trying to answer the following questions:
 3) Does time of year impact stock prices?
 
 APIs Used:
-https://www.alphavantage.co/
-https://www.macrotrends.net/1329/us-dollar-index-historical-chart
+- https://www.alphavantage.co/
+- https://www.macrotrends.net/1329/us-dollar-index-historical-chart
+
+This was used to obtain latest Stock Symbols:
+- http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NYSE&render=download
+
